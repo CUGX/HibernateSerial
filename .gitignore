@@ -1,6 +1,3 @@
-HELP.md
-/target/
-!.mvn/wrapper/maven-wrapper.jar
 
 ### STS ###
 .apt_generated
@@ -26,5 +23,6 @@ bin
 /.nb-gradle/
 /build/
 
-### VS Code ###
-.vscode/
+# Compiled class file
+*.class
+
